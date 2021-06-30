@@ -19,5 +19,7 @@
 9. 
 
 ### Notebooks of different models (Tested on our data)
-1. [LSTM model](https://colab.research.google.com/drive/1tDQE5GfDLd2V2VFfs_ZQgOESe1o3fopy?)
-2. [Name Entity Recognition for event extraction](https://colab.research.google.com/drive/1XBildJCjSuHShjOBOhZHKxI8vee7m2l_?usp=sharing)
+1. [LSTM model- (on news data, biased data towards neutral)](https://colab.research.google.com/drive/1tDQE5GfDLd2V2VFfs_ZQgOESe1o3fopy?usp=sharing)
+2. [LSTM model - (on tweet data of jio meet, uniform data)]()
+3. [Name Entity Recognition](https://colab.research.google.com/drive/1XBildJCjSuHShjOBOhZHKxI8vee7m2l_?usp=sharing)
+4. [event extraction](https://colab.research.google.com/drive/1GlZy5VpIhPxWY9ISNt2wM5m_dSST86RK?usp=sharing)
