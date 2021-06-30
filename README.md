@@ -16,7 +16,6 @@
 6. Spacy
 7. Regular Expression(re)
 8. Transformers
-9. 
 
 ### Notebooks of different models (Tested on our data)
 1. [LSTM model- (on news data, biased data towards neutral)](https://colab.research.google.com/drive/1tDQE5GfDLd2V2VFfs_ZQgOESe1o3fopy?usp=sharing)
